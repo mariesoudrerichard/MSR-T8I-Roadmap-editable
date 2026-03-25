@@ -1,0 +1,299 @@
+{
+  "keyMsg": "Phasage rigoureux des opérations et priorisation des investissements pour transformer notre avance scientifique en traction commerciale, et renforcer durablement nos barrières à l'entrée.",
+  "desc": "Chaque action est séquencée, chaque investissement est au service de la croissance du chiffre d'affaires.",
+  "convictions": [
+    "La R&D est la fondation : 3 matières en cours de certification, 2 brevets matières planifiés.",
+    "Le déploiement commercial est séquencé — Europe d'abord, Asie ensuite, au rythme des certifications.",
+    "L'industrialisation : la ligne de production sera opérationnelle avant le lancement commercial. 2 brevets procédés",
+    "Une prise de parole qui ancre notre avancée scientifique."
+  ],
+  "order": [
+    "rd",
+    "p1774281045243",
+    "p1774281019578",
+    "ind",
+    "mkt",
+    "prod",
+    "com"
+  ],
+  "piliers": {
+    "rd": {
+      "name": "R&D Innovation",
+      "sub": "Matière · IP",
+      "color": "#4A3F8A",
+      "colorL": "#ECEAF8",
+      "jalons": [
+        {
+          "id": "rd4",
+          "name": "Rubber TPR Stabilisation",
+          "sem": "2026-S2",
+          "type": "planifié"
+        },
+        {
+          "id": "rd1",
+          "name": "Rubber TPR Finalisation",
+          "sem": "2026-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "rd7",
+          "name": "Certification Rubber TPR",
+          "sem": "2027-S1",
+          "type": "cible"
+        },
+        {
+          "id": "rd2",
+          "name": "EVA formulations",
+          "sem": "2026-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "rd14",
+          "name": "EVA stabilisation",
+          "sem": "2027-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "rd10",
+          "name": "EVA certification",
+          "sem": "2027-S2",
+          "type": "cible"
+        },
+        {
+          "id": "rd3",
+          "name": "Rubber PERF. Innovation",
+          "sem": "2026-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "rd9",
+          "name": "TPV Étude intégration",
+          "sem": "2027-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "rd12",
+          "name": "TPV Résultats",
+          "sem": "2028-S1",
+          "type": "planifié"
+        }
+      ]
+    },
+    "prod": {
+      "name": "Produit",
+      "sub": "Prototypage · Segments",
+      "color": "#1D7A5F",
+      "colorL": "#E0F2EC",
+      "jalons": [
+        {
+          "id": "p1",
+          "name": "Prototype OKTARA rubber LS",
+          "sem": "2026-S1",
+          "type": "cible"
+        },
+        {
+          "id": "p3",
+          "name": "Prototype Rubber TPR",
+          "sem": "2026-S2",
+          "type": "cible"
+        },
+        {
+          "id": "p5",
+          "name": "Prototype OKTARA rubber PERF.",
+          "sem": "2027-S1",
+          "type": "cible"
+        },
+        {
+          "id": "p7",
+          "name": "Prototype OKTRACE EVA PERF.",
+          "sem": "2027-S2",
+          "type": "cible"
+        }
+      ]
+    },
+    "ind": {
+      "name": "Industrie",
+      "sub": "Scale-up · GRS",
+      "color": "#8A6A1A",
+      "colorL": "#F5EDD8",
+      "jalons": [
+        {
+          "id": "i1",
+          "name": "SCALE UP Pré-commande ligne",
+          "sem": "2026-S2",
+          "type": "planifié"
+        },
+        {
+          "id": "i6",
+          "name": "SCALE UP Finalisation installation",
+          "sem": "2027-S2",
+          "type": "cible"
+        },
+        {
+          "id": "i3",
+          "name": "SCALE UP Livraison ligne",
+          "sem": "2027-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "i5",
+          "name": "Certification GRS",
+          "sem": "2027-S2",
+          "type": "cible"
+        }
+      ]
+    },
+    "mkt": {
+      "name": "Marketing",
+      "sub": "Pivot B2B → B2C",
+      "color": "#8A2A1D",
+      "colorL": "#F5E0DC",
+      "jalons": [
+        {
+          "id": "m2",
+          "name": "Nouveau discours marque",
+          "sem": "2026-S1",
+          "type": "cible"
+        },
+        {
+          "id": "m3",
+          "name": "Nouveau site + PLV",
+          "sem": "2026-S2",
+          "type": "cible"
+        },
+        {
+          "id": "m4",
+          "name": "Tests influenceurs",
+          "sem": "2027-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "m5",
+          "name": "Campagnes influenceurs",
+          "sem": "2027-S2",
+          "type": "planifié"
+        },
+        {
+          "id": "m6",
+          "name": "Lancement salons B2C",
+          "sem": "2027-S2",
+          "type": "cible"
+        }
+      ]
+    },
+    "com": {
+      "name": "Commercialisation",
+      "sub": "Europe · Asie",
+      "color": "#1A5A8A",
+      "colorL": "#DCF0F5",
+      "jalons": [
+        {
+          "id": "c1",
+          "name": "Pré-commercial Europe",
+          "sem": "2026-S1",
+          "type": "planifié"
+        },
+        {
+          "id": "c2",
+          "name": "Déploiement organisation Europe",
+          "sem": "2026-S2",
+          "type": "cible"
+        },
+        {
+          "id": "c3",
+          "name": "Pré-commercial Asie (via FFG)",
+          "sem": "2026-S2",
+          "type": "planifié"
+        },
+        {
+          "id": "c4",
+          "name": "Déploiement org. Asie",
+          "sem": "2027-S2",
+          "type": "cible"
+        },
+        {
+          "id": "c5",
+          "name": "Parité prix rubber",
+          "sem": "2027-S1",
+          "type": "cible"
+        },
+        {
+          "id": "c6",
+          "name": "Parité prix EVA",
+          "sem": "2028-S1",
+          "type": "cible"
+        }
+      ]
+    },
+    "p1774281019578": {
+      "name": "IP / brevets",
+      "sub": "Protection industrielle",
+      "color": "#5A3F7A",
+      "colorL": "#EAE5F5",
+      "jalons": [
+        {
+          "id": "p17742810195781774436860709",
+          "name": "Micronisation Patent / procédé",
+          "sem": "2028-S1",
+          "type": "ip"
+        },
+        {
+          "id": "ip1",
+          "name": "EVA Patent vis / procédé",
+          "sem": "2026-S2",
+          "type": "ip"
+        },
+        {
+          "id": "ip2",
+          "name": "EVA formulation DOW Soleau",
+          "sem": "2026-S1",
+          "type": "ip"
+        },
+        {
+          "id": "ip5",
+          "name": "Rubber PERF. formulation brevet",
+          "sem": "2027-S1",
+          "type": "ip"
+        },
+        {
+          "id": "ip3",
+          "name": "EVA formulation DOW brevet",
+          "sem": "2028-S1",
+          "type": "ip"
+        },
+        {
+          "id": "ip4",
+          "name": "Dépôt marques OKTARA / OKTRACE",
+          "sem": "2026-S1",
+          "type": "ip"
+        }
+      ]
+    },
+    "p1774281045243": {
+      "name": "R&D certification",
+      "sub": "Qualité · Contrôle",
+      "color": "#1A6B7A",
+      "colorL": "#D8EEF2",
+      "jalons": [
+        {
+          "id": "rc1",
+          "name": "Homogénéisation (tous gisements)",
+          "sem": "2026-S2",
+          "type": "planifié"
+        },
+        {
+          "id": "rc2",
+          "name": "Décision taille critique batch",
+          "sem": "2027-S1",
+          "type": "cible"
+        },
+        {
+          "id": "rc3",
+          "name": "Certification contrôle qualité BV.",
+          "sem": "2027-S2",
+          "type": "cible"
+        }
+      ]
+    }
+  }
+}
